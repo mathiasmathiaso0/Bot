@@ -1,0 +1,45 @@
+{
+	"utilities": {
+		"errorEmbed": "Error!",
+		"noInvitePerms": "Necesito el permiso de `crear invitaciones` para ejecutar este comando.",
+		"unexpectedError": "Ha ocurrido un error inesperado..."
+	},
+	"avatar": {
+		"objective": "Avatar de **{username}**",
+		"self": "Tu avatar es:",
+		"footer": "Pedido por {username}"
+	},
+	"lang": {
+		"newLanguage": "Has seleccionado un nuevo lenguaje",
+		"noAdministrator": "No tienes suficientes permisos para ejecutar este comando"
+	},
+	"action": {
+		"camp": "**{interaction}** ha ido de camping con **{user}**",
+		"cook": "**{interaction}** cocina algo.",
+		"objectiveCamp": "action.objectiveCamp"
+	},
+	"status": {
+		"performance": "Rendimiento",
+		"system": "Sistema",
+		"processor": "Procesador",
+		"so": "Sistema Operativo",
+		"totalUsers": "Total de Usuarios",
+		"totalEmoticons": "Total de Emoticonos",
+		"totalServers": "Total de Servidores",
+		"totalChannels": "Total de canales",
+		"totalCommands": "Total de comandos",
+		"botUptime": "Tiempo de actividad del bot",
+		"hostUptime": "Tiempo de actividad del host",
+		"lastStart": "Último inicio"
+	},
+	"clima": {
+		"resBus": "Resultado de la búsqueda: ",
+		"res": "Resultados:",
+		"mismH": "ahora mismo esta con",
+		"temp": "Temperatura:",
+		"senTer": "Sensación Térmica:",
+		"tempMax": "Temperatura Máxima:",
+		"tempMin": "Temperatura Mínima:",
+		"hum": "Humedad:"
+	}
+}

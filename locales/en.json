@@ -1,0 +1,44 @@
+{
+    "utilities": {
+        "errorEmbed": "Error!",
+        "noInvitePerms": "I need the `create invitations` permission to execute this command.",
+        "unexpectedError": "An unexpected error has occurred..."
+    },
+    "avatar": {
+        "objective": "**{username}'s** Avatar",
+        "self": "Your avatar is:",
+        "footer": "Requested by {username}"
+    },
+    "lang": {
+        "newLanguage": "You have selected a new language",
+        "noAdministrator": "You do not have sufficient permissions to run this command"
+    }, 
+    "action": {
+        "camp": "**{interaction}** has gone camping with **{user}**",
+        "cook": "**{interaction}** cooks something"
+    },
+    "status": {
+        "performance": "Performance",
+        "system": "System",
+        "processor": "Processor",
+        "so": "OS",
+        "totalUsers": "Total Users",
+        "totalEmoticons": "Total Emoticons",
+        "totalChannels": "Total Channels",
+        "totalServers": "Total Servers",
+        "totalCommands": "Total Commands",
+        "botUptime": "Bot Uptime",
+        "hostUptime": "Host Uptime",
+        "lastStart": "Last start"
+    },
+	"clima": {
+		"resBus": "Search results: ",
+		"res": "Results:",
+		"mismH": "right now he is with very",
+		"temp": "Temperature:",
+		"senTer": "Thermal sensation:",
+		"tempMax": "Temperature Maximum:",
+		"tempMin": "Temperature Minimum:",
+		"hum": "Humidity:"
+	}
+}
